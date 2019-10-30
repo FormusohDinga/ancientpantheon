@@ -24,8 +24,8 @@ export default ({ children }) => (
       }
       button {
         align-items: center;
-        background-color: #22bad9;
-        border: 0;
+        background-color: ;
+        border: 3;
         color: white;
         display: flex;
         padding: 5px 7px;
