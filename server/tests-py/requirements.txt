@@ -24,7 +24,7 @@ PyJWT==1.7.1
 pytest==4.5.0
 pytest-forked==1.0.2
 pytest-xdist==1.28.0
-PyYAML==5.1
+PyYAML==5.4
 requests==2.22.0
 Rx==1.6.1
 six==1.12.0
